@@ -7,8 +7,3 @@
 
 * Flex-box
 
-## Hecho por:
-
-###Ana García
-
-### Linkedin: https://www.linkedin.com/school/aluracursos/
